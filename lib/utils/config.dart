@@ -1,1 +1,1 @@
-const APP_NAME = "EZ_BET_TIPS";
+const APP_NAME = "BET SEED - Admin";
